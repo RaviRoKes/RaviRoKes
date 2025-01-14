@@ -10,9 +10,9 @@ My technical skills include proficiency in programming languages such as Python,
 
 I am constantly looking for opportunities to expand my knowledge and skills in the field of robotics, and am always eager to collaborate with others who share my passion. I am committed to using my technical expertise to contribute to the development of innovative and impactful solutions in the field of robotics.
 
-* 🌍  I'm based in Nepal
+* 🌍  I'm based in Germany
 * ✉️  You can contact me at [keshari.ravi2086(mailto:keshari.ravi2086@gmail.com)
-* 🚀  I'm currently studying at Izmir Democracy University
+* 🚀  I'm currently studying at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, Germany
 * 🧠  I'm learning Robot Operating System (ROS) & Applications
 <!-- 
 <a href="https://github.com/RaviRoKes" target="_blank" rel="noreferrer"><img
